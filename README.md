@@ -5,9 +5,9 @@ Prerequisites
 
 ## Before running the script, make sure you have the following prerequisites:
 
-    Python 3.x
-    Kazoo library (you can install it using pip install kazoo)
-    Access to a ZooKeeper cluster
+* Python 3.x
+* Kazoo library (you can install it using pip install kazoo)
+* Access to a ZooKeeper cluster
 
 ## Usage
 
